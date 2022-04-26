@@ -17,7 +17,7 @@
 </br></br></br>
 
 <h3 align="center"><b>🛠 Me 🛠</b></h3>
-<p align="center">
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://idkim97.github.io/)](https://idkim97.github.io/)
 
 	
